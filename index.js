@@ -11,7 +11,7 @@ async function enviarCorreos() {
         }
     });
 
-    //Aqui se indican los correos a los caules enviaremos la informacion
+    //Se ingresan los correos a los cuales será enviada la información
     const destinatarios = [
         'lauraguirregarcia1998@gmail.com',
         'salazarsanchezbrayan40@gmail.com',
